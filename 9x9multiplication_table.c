@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int row(int r){
-    
-}
-int col(int c){
-
-}
 int main()
 {
     for (int i = 1;i < 10;i ++){
