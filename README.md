@@ -40,7 +40,7 @@ Answer in file : 9x9multiplication_table.exe
 
 https://hackmd.io/@chtsai/B1abq0QZ6
 
-
+Answer in link : https://app.gitbook.com/o/bcWyIHcHjK9jN9SmtOVw/s/qaFv15mjrEripozmYPKw/
 
 ## (作業四) 將作業二改寫成函數，(此函數功能為，找出 i,j 座標，方向(dx,dy)是否有可下子的位置，若無傳回0, 若有傳回1還有距離(i,j)幾步)。
 
