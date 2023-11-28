@@ -32,6 +32,8 @@ https://hackmd.io/@chtsai/ryI1vRQbT
 
 https://hackmd.io/@chtsai/HyJwgII-6
 
+Answer in file : 9x9multiplication_table.exe
+
 ## (作業三) 作業完成期限上課最後一周 ，第18週前你可以自行更新你的
 電子筆記，作業頁面，18週之後我就不看了。
 (但10/25日前請將作業連結交上，我會不定期的每週上去瀏覽)
